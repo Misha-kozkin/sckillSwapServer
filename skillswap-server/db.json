@@ -7,7 +7,6 @@
       "firstName": "Мария",
       "birthDate": "2001-03-08",
       "gender": "female",
-      "cityId": "1",
       "avatar": "avatar_1_f.jpg",
       "learningSkills": [
         {
@@ -37,7 +36,8 @@
         }
       ],
       "age": 25,
-      "likes": 340
+      "likes": 340,
+      "city": "Москва"
     },
     {
       "id": "u2",
@@ -46,7 +46,6 @@
       "firstName": "Анна",
       "birthDate": "1998-07-19",
       "gender": "female",
-      "cityId": "2",
       "avatar": "avatar_2_f.jpg",
       "learningSkills": [
         {
@@ -81,7 +80,8 @@
         }
       ],
       "age": 27,
-      "likes": 58
+      "likes": 58,
+      "city": "Санкт-Петербург"
     },
     {
       "id": "u3",
@@ -90,7 +90,6 @@
       "firstName": "Екатерина",
       "birthDate": "1995-11-30",
       "gender": "female",
-      "cityId": "3",
       "avatar": "avatar_3_f.jpg",
       "learningSkills": [
         {
@@ -114,7 +113,8 @@
         }
       ],
       "age": 30,
-      "likes": 0
+      "likes": 0,
+      "city": "Екатеринбург"
     },
     {
       "id": "u4",
@@ -123,7 +123,6 @@
       "firstName": "София",
       "birthDate": "1994-02-14",
       "gender": "female",
-      "cityId": "4",
       "avatar": "avatar_4_f.jpg",
       "learningSkills": [
         {
@@ -153,7 +152,8 @@
         }
       ],
       "age": 32,
-      "likes": 230
+      "likes": 230,
+      "city": "Казань"
     },
     {
       "id": "u5",
@@ -162,7 +162,6 @@
       "firstName": "Дарья",
       "birthDate": "2000-06-05",
       "gender": "female",
-      "cityId": "1",
       "avatar": "avatar_5_f.jpg",
       "learningSkills": [
         {
@@ -192,7 +191,8 @@
         }
       ],
       "age": 25,
-      "likes": 10
+      "likes": 10,
+      "city": "Москва"
     },
     {
       "id": "u6",
@@ -201,7 +201,6 @@
       "firstName": "Ольга",
       "birthDate": "1996-09-18",
       "gender": "female",
-      "cityId": "5",
       "avatar": "avatar_6_f.jpg",
       "learningSkills": [
         {
@@ -225,7 +224,8 @@
         }
       ],
       "age": 29,
-      "likes": 0
+      "likes": 0,
+      "city": "Краснодар"
     },
     {
       "id": "u7",
@@ -234,7 +234,6 @@
       "firstName": "Юлия",
       "birthDate": "1998-12-03",
       "gender": "female",
-      "cityId": "6",
       "avatar": "avatar_7_f.jpg",
       "learningSkills": [
         {
@@ -259,7 +258,8 @@
         }
       ],
       "age": 27,
-      "likes": 560
+      "likes": 560,
+      "city": "Новосибирск"
     },
     {
       "id": "u8",
@@ -268,7 +268,6 @@
       "firstName": "Алина",
       "birthDate": "1990-04-17",
       "gender": "female",
-      "cityId": "7",
       "avatar": "avatar_8_f.jpg",
       "learningSkills": [],
       "offeringSkills": [
@@ -287,7 +286,8 @@
         }
       ],
       "age": 35,
-      "likes": 0
+      "likes": 0,
+      "city": "Самара"
     },
     {
       "id": "u9",
@@ -296,7 +296,6 @@
       "firstName": "Виктория",
       "birthDate": "1999-10-11",
       "gender": "female",
-      "cityId": "8",
       "avatar": "avatar_9_f.jpg",
       "learningSkills": [
         {
@@ -331,7 +330,8 @@
         }
       ],
       "age": 26,
-      "likes": 40
+      "likes": 40,
+      "city": "Воронеж"
     },
     {
       "id": "u10",
@@ -340,7 +340,6 @@
       "firstName": "Ирина",
       "birthDate": "1988-01-22",
       "gender": "female",
-      "cityId": "9",
       "avatar": "avatar_10_f.jpg",
       "learningSkills": [
         {
@@ -365,7 +364,8 @@
         }
       ],
       "age": 38,
-      "likes": 0
+      "likes": 0,
+      "city": "Ростов-на-Дону"
     },
     {
       "id": "u11",
@@ -374,7 +374,6 @@
       "firstName": "Татьяна",
       "birthDate": "1996-08-09",
       "gender": "female",
-      "cityId": "10",
       "avatar": "avatar_11_f.jpg",
       "learningSkills": [
         {
@@ -399,7 +398,8 @@
         }
       ],
       "age": 29,
-      "likes": 20
+      "likes": 20,
+      "city": "Калининград"
     },
     {
       "id": "u12",
@@ -408,7 +408,6 @@
       "firstName": "Анастасия",
       "birthDate": "1993-05-27",
       "gender": "female",
-      "cityId": "11",
       "avatar": "avatar_12_f.jpg",
       "learningSkills": [
         {
@@ -433,7 +432,8 @@
         }
       ],
       "age": 32,
-      "likes": 0
+      "likes": 0,
+      "city": "Пермь"
     },
     {
       "id": "u13",
@@ -442,7 +442,6 @@
       "firstName": "Елена",
       "birthDate": "1997-03-04",
       "gender": "female",
-      "cityId": "12",
       "avatar": "avatar_13_f.jpg",
       "learningSkills": [
         {
@@ -467,7 +466,8 @@
         }
       ],
       "age": 29,
-      "likes": 0
+      "likes": 0,
+      "city": "Уфа"
     },
     {
       "id": "u14",
@@ -476,7 +476,6 @@
       "firstName": "Ксения",
       "birthDate": "2000-09-16",
       "gender": "female",
-      "cityId": "13",
       "avatar": "avatar_14_f.jpg",
       "learningSkills": [
         {
@@ -506,7 +505,8 @@
         }
       ],
       "age": 25,
-      "likes": 3450
+      "likes": 3450,
+      "city": "Тюмень"
     },
     {
       "id": "u15",
@@ -515,7 +515,6 @@
       "firstName": "Мария",
       "birthDate": "1992-12-25",
       "gender": "female",
-      "cityId": "14",
       "avatar": "avatar_15_f.jpg",
       "learningSkills": [
         {
@@ -540,7 +539,8 @@
         }
       ],
       "age": 33,
-      "likes": 350
+      "likes": 350,
+      "city": "Владивосток"
     },
     {
       "id": "u16",
@@ -549,7 +549,6 @@
       "firstName": "Светлана",
       "birthDate": "1995-07-07",
       "gender": "female",
-      "cityId": "15",
       "avatar": "avatar_16_f.jpg",
       "learningSkills": [
         {
@@ -573,7 +572,8 @@
         }
       ],
       "age": 30,
-      "likes": 3450
+      "likes": 3450,
+      "city": "Иркутск"
     },
     {
       "id": "u17",
@@ -582,7 +582,6 @@
       "firstName": "Полина",
       "birthDate": "1991-10-29",
       "gender": "female",
-      "cityId": "16",
       "avatar": "avatar_17_f.jpg",
       "learningSkills": [
         {
@@ -607,7 +606,8 @@
         }
       ],
       "age": 34,
-      "likes": 0
+      "likes": 0,
+      "city": "Челябинск"
     },
     {
       "id": "u18",
@@ -616,7 +616,6 @@
       "firstName": "Рита",
       "birthDate": "1998-04-01",
       "gender": "female",
-      "cityId": "17",
       "avatar": "avatar_18_f.jpg",
       "learningSkills": [
         {
@@ -646,7 +645,8 @@
         }
       ],
       "age": 27,
-      "likes": 80
+      "likes": 80,
+      "city": "Омск"
     },
     {
       "id": "u19",
@@ -655,7 +655,6 @@
       "firstName": "Любовь",
       "birthDate": "1994-01-13",
       "gender": "female",
-      "cityId": "18",
       "avatar": "avatar_19_f.jpg",
       "learningSkills": [
         {
@@ -680,7 +679,8 @@
         }
       ],
       "age": 32,
-      "likes": 90
+      "likes": 90,
+      "city": "Красноярск"
     },
     {
       "id": "u20",
@@ -689,7 +689,6 @@
       "firstName": "Вероника",
       "birthDate": "1999-08-20",
       "gender": "female",
-      "cityId": "19",
       "avatar": "avatar_20_f.jpg",
       "learningSkills": [
         {
@@ -719,7 +718,8 @@
         }
       ],
       "age": 26,
-      "likes": 110
+      "likes": 110,
+      "city": "Волгоград"
     },
     {
       "id": "u21",
@@ -728,7 +728,6 @@
       "firstName": "Наталья",
       "birthDate": "1993-09-28",
       "gender": "female",
-      "cityId": "20",
       "avatar": "avatar_21_f.jpg",
       "learningSkills": [
         {
@@ -757,7 +756,8 @@
         }
       ],
       "age": 32,
-      "likes": 220
+      "likes": 220,
+      "city": "Саратов"
     },
     {
       "id": "u22",
@@ -766,7 +766,6 @@
       "firstName": "Зоя",
       "birthDate": "1997-02-09",
       "gender": "female",
-      "cityId": "21",
       "avatar": "avatar_22_f.jpg",
       "learningSkills": [
         {
@@ -791,7 +790,8 @@
         }
       ],
       "age": 29,
-      "likes": 330
+      "likes": 330,
+      "city": "Ярославль"
     },
     {
       "id": "u23",
@@ -800,7 +800,6 @@
       "firstName": "Милана",
       "birthDate": "1991-11-11",
       "gender": "female",
-      "cityId": "22",
       "avatar": "avatar_23_f.jpg",
       "learningSkills": [
         {
@@ -825,7 +824,8 @@
         }
       ],
       "age": 34,
-      "likes": 40
+      "likes": 40,
+      "city": "Тверь"
     },
     {
       "id": "u24",
@@ -834,7 +834,6 @@
       "firstName": "Арина",
       "birthDate": "1998-05-05",
       "gender": "female",
-      "cityId": "23",
       "avatar": "avatar_24_f.jpg",
       "learningSkills": [],
       "offeringSkills": [
@@ -853,7 +852,8 @@
         }
       ],
       "age": 27,
-      "likes": 1
+      "likes": 1,
+      "city": "Иваново"
     },
     {
       "id": "u25",
@@ -862,7 +862,6 @@
       "firstName": "Дина",
       "birthDate": "1995-07-19",
       "gender": "female",
-      "cityId": "24",
       "avatar": "avatar_25_f.jpg",
       "learningSkills": [
         {
@@ -886,7 +885,8 @@
         }
       ],
       "age": 30,
-      "likes": 2
+      "likes": 2,
+      "city": "Брянск"
     },
     {
       "id": "u26",
@@ -895,7 +895,6 @@
       "firstName": "Александр",
       "birthDate": "1996-05-14",
       "gender": "male",
-      "cityId": "1",
       "avatar": "avatar_1_m.jpg",
       "learningSkills": [
         {
@@ -920,7 +919,8 @@
         }
       ],
       "age": 29,
-      "likes": 3
+      "likes": 3,
+      "city": "Москва"
     },
     {
       "id": "u27",
@@ -929,7 +929,6 @@
       "firstName": "Дмитрий",
       "birthDate": "1993-09-08",
       "gender": "male",
-      "cityId": "2",
       "avatar": "avatar_2_m.jpg",
       "learningSkills": [
         {
@@ -964,7 +963,8 @@
         }
       ],
       "age": 32,
-      "likes": 4
+      "likes": 4,
+      "city": "Санкт-Петербург"
     },
     {
       "id": "u28",
@@ -973,7 +973,6 @@
       "firstName": "Максим",
       "birthDate": "1990-03-25",
       "gender": "male",
-      "cityId": "5",
       "avatar": "avatar_3_f.jpg",
       "learningSkills": [
         {
@@ -1007,7 +1006,8 @@
         }
       ],
       "age": 35,
-      "likes": 5
+      "likes": 5,
+      "city": "Краснодар"
     },
     {
       "id": "u29",
@@ -1016,7 +1016,6 @@
       "firstName": "Никита",
       "birthDate": "1997-12-19",
       "gender": "male",
-      "cityId": "6",
       "avatar": "avatar_4_f.jpg",
       "learningSkills": [
         {
@@ -1051,7 +1050,8 @@
         }
       ],
       "age": 28,
-      "likes": 6
+      "likes": 6,
+      "city": "Новосибирск"
     },
     {
       "id": "u30",
@@ -1060,7 +1060,6 @@
       "firstName": "Сергей",
       "birthDate": "1994-07-30",
       "gender": "male",
-      "cityId": "3",
       "avatar": "avatar_5_m.jpg",
       "learningSkills": [
         {
@@ -1095,7 +1094,8 @@
         }
       ],
       "age": 31,
-      "likes": 7
+      "likes": 7,
+      "city": "Екатеринбург"
     },
     {
       "id": "u31",
@@ -1104,7 +1104,6 @@
       "firstName": "Владимир",
       "birthDate": "1987-11-02",
       "gender": "male",
-      "cityId": "14",
       "avatar": "avatar_6_m.jpg",
       "learningSkills": [
         {
@@ -1139,7 +1138,8 @@
         }
       ],
       "age": 38,
-      "likes": 8
+      "likes": 8,
+      "city": "Владивосток"
     },
     {
       "id": "u32",
@@ -1148,7 +1148,6 @@
       "firstName": "Роман",
       "birthDate": "1999-04-16",
       "gender": "male",
-      "cityId": "10",
       "avatar": "avatar_7_m.jpg",
       "learningSkills": [
         {
@@ -1173,7 +1172,8 @@
         }
       ],
       "age": 26,
-      "likes": 9
+      "likes": 9,
+      "city": "Калининград"
     },
     {
       "id": "u33",
@@ -1182,7 +1182,6 @@
       "firstName": "Игорь",
       "birthDate": "1991-08-27",
       "gender": "male",
-      "cityId": "11",
       "avatar": "avatar_8_m.jpg",
       "learningSkills": [
         {
@@ -1217,7 +1216,8 @@
         }
       ],
       "age": 34,
-      "likes": 10
+      "likes": 10,
+      "city": "Пермь"
     },
     {
       "id": "u34",
@@ -1226,7 +1226,6 @@
       "firstName": "Павел",
       "birthDate": "1996-01-09",
       "gender": "male",
-      "cityId": "12",
       "avatar": "avatar_9_m.jpg",
       "learningSkills": [
         {
@@ -1261,7 +1260,8 @@
         }
       ],
       "age": 30,
-      "likes": 0
+      "likes": 0,
+      "city": "Уфа"
     },
     {
       "id": "u35",
@@ -1270,7 +1270,6 @@
       "firstName": "Артём",
       "birthDate": "1998-10-21",
       "gender": "male",
-      "cityId": "13",
       "avatar": "avatar_10_m.jpg",
       "learningSkills": [
         {
@@ -1299,7 +1298,8 @@
         }
       ],
       "age": 27,
-      "likes": 0
+      "likes": 0,
+      "city": "Тюмень"
     },
     {
       "id": "u36",
@@ -1308,7 +1308,6 @@
       "firstName": "Кирилл",
       "birthDate": "1995-06-12",
       "gender": "male",
-      "cityId": "25",
       "avatar": "avatar_11_m.jpg",
       "learningSkills": [
         {
@@ -1343,7 +1342,8 @@
         }
       ],
       "age": 30,
-      "likes": 5
+      "likes": 5,
+      "city": "Оренбург"
     },
     {
       "id": "u37",
@@ -1352,7 +1352,6 @@
       "firstName": "Денис",
       "birthDate": "1992-03-03",
       "gender": "male",
-      "cityId": "26",
       "avatar": "avatar_12_m.jpg",
       "learningSkills": [
         {
@@ -1387,7 +1386,8 @@
         }
       ],
       "age": 34,
-      "likes": 0
+      "likes": 0,
+      "city": "Липецк"
     },
     {
       "id": "u38",
@@ -1396,7 +1396,6 @@
       "firstName": "Антон",
       "birthDate": "1997-09-17",
       "gender": "male",
-      "cityId": "27",
       "avatar": "avatar_13_m.jpg",
       "learningSkills": [
         {
@@ -1431,7 +1430,8 @@
         }
       ],
       "age": 28,
-      "likes": 70
+      "likes": 70,
+      "city": "Курск"
     },
     {
       "id": "u39",
@@ -1440,7 +1440,6 @@
       "firstName": "Виталий",
       "birthDate": "1994-12-24",
       "gender": "male",
-      "cityId": "28",
       "avatar": "avatar_14_m.jpg",
       "learningSkills": [
         {
@@ -1465,7 +1464,8 @@
         }
       ],
       "age": 31,
-      "likes": 0
+      "likes": 0,
+      "city": "Белгород"
     },
     {
       "id": "u40",
@@ -1474,7 +1474,6 @@
       "firstName": "Александр",
       "birthDate": "1989-04-08",
       "gender": "male",
-      "cityId": "29",
       "avatar": "avatar_15_m.jpg",
       "learningSkills": [
         {
@@ -1499,7 +1498,8 @@
         }
       ],
       "age": 36,
-      "likes": 69
+      "likes": 69,
+      "city": "Смоленск"
     },
     {
       "id": "u41",
@@ -1508,7 +1508,6 @@
       "firstName": "Егор",
       "birthDate": "1998-01-31",
       "gender": "male",
-      "cityId": "30",
       "avatar": "avatar_16_m.jpg",
       "learningSkills": [
         {
@@ -1533,7 +1532,8 @@
         }
       ],
       "age": 28,
-      "likes": 0
+      "likes": 0,
+      "city": "Калуга"
     },
     {
       "id": "u42",
@@ -1542,7 +1542,6 @@
       "firstName": "Тимур",
       "birthDate": "1995-10-05",
       "gender": "male",
-      "cityId": "31",
       "avatar": "avatar_17_m.jpg",
       "learningSkills": [
         {
@@ -1576,7 +1575,8 @@
         }
       ],
       "age": 30,
-      "likes": 0
+      "likes": 0,
+      "city": "Орел"
     },
     {
       "id": "u43",
@@ -1585,7 +1585,6 @@
       "firstName": "Матвей",
       "birthDate": "1993-07-13",
       "gender": "male",
-      "cityId": "32",
       "avatar": "avatar_18_m.jpg",
       "learningSkills": [
         {
@@ -1610,7 +1609,8 @@
         }
       ],
       "age": 32,
-      "likes": 0
+      "likes": 0,
+      "city": "Рязань"
     },
     {
       "id": "u44",
@@ -1619,7 +1619,6 @@
       "firstName": "Илья",
       "birthDate": "1996-02-20",
       "gender": "male",
-      "cityId": "33",
       "avatar": "avatar_19_m.jpg",
       "learningSkills": [
         {
@@ -1644,7 +1643,8 @@
         }
       ],
       "age": 30,
-      "likes": 0
+      "likes": 0,
+      "city": "Тула"
     },
     {
       "id": "u45",
@@ -1653,7 +1653,6 @@
       "firstName": "Богдан",
       "birthDate": "1999-11-28",
       "gender": "male",
-      "cityId": "34",
       "avatar": "avatar_20_m.jpg",
       "learningSkills": [
         {
@@ -1688,7 +1687,8 @@
         }
       ],
       "age": 26,
-      "likes": 0
+      "likes": 0,
+      "city": "Пенза"
     },
     {
       "id": "u46",
@@ -1697,7 +1697,6 @@
       "firstName": "Владимир",
       "birthDate": "1987-11-02",
       "gender": "male",
-      "cityId": "14",
       "avatar": "avatar_21_m.jpg",
       "learningSkills": [
         {
@@ -1722,7 +1721,8 @@
         }
       ],
       "age": 38,
-      "likes": 0
+      "likes": 0,
+      "city": "Владивосток"
     },
     {
       "id": "u47",
@@ -1731,7 +1731,6 @@
       "firstName": "Роман",
       "birthDate": "1999-04-16",
       "gender": "male",
-      "cityId": "10",
       "avatar": "avatar_22_m.jpg",
       "learningSkills": [
         {
@@ -1766,7 +1765,8 @@
         }
       ],
       "age": 26,
-      "likes": 0
+      "likes": 0,
+      "city": "Калининград"
     },
     {
       "id": "u48",
@@ -1775,7 +1775,6 @@
       "firstName": "Игорь",
       "birthDate": "1991-08-27",
       "gender": "male",
-      "cityId": "11",
       "avatar": "avatar_23_m.jpg",
       "learningSkills": [
         {
@@ -1805,7 +1804,8 @@
         }
       ],
       "age": 34,
-      "likes": 0
+      "likes": 0,
+      "city": "Пермь"
     },
     {
       "id": "u49",
@@ -1814,7 +1814,6 @@
       "firstName": "Павел",
       "birthDate": "1996-01-09",
       "gender": "male",
-      "cityId": "12",
       "avatar": "avatar_24_m.jpg",
       "learningSkills": [
         {
@@ -1844,7 +1843,8 @@
         }
       ],
       "age": 30,
-      "likes": 0
+      "likes": 0,
+      "city": "Уфа"
     },
     {
       "id": "u50",
@@ -1853,7 +1853,6 @@
       "firstName": "Артём",
       "birthDate": "1998-10-21",
       "gender": "male",
-      "cityId": "13",
       "avatar": "avatar_25_m.jpg",
       "learningSkills": [
         {
@@ -1877,7 +1876,8 @@
         }
       ],
       "age": 27,
-      "likes": 0
+      "likes": 0,
+      "city": "Тюмень"
     }
   ],
   "notifications": [
